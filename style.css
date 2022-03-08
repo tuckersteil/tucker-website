@@ -1,6 +1,28 @@
 body {
+    background-image: url(../tucker-website/Images/pexels-pixabay-531880.jpg);
+    background-size: cover;
+    background-attachment: fixed;
     margin: auto;
     font-family: "Helvetica Neue";
-    background: white;
     padding: 30px;
+    
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#content {
+    padding: 100px;
+    background: rgba(255,255,255,.85);
+}
+
+#content p {
+    float: left;
+    text-align: center;
+    width: 33%;
 }
