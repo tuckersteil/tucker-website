@@ -16,13 +16,15 @@ h1 {
     text-decoration: underline;
 }
 
-#content {
-    padding: 100px;
-    background: rgba(255,255,255,.85);
+div {
+    float: left;
+    text-align:center; 
+    width: 33%;
+    background-color: white;
 }
 
-#content p {
-    float: left;
-    text-align: center;
-    width: 33%;
+h2 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
 }
